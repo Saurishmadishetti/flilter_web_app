@@ -1,0 +1,17 @@
+#first_head{
+    font-size: 40px;
+    margin-left: 550px;
+    border-radius: 10px;
+    width: 500px;
+    margin-top: 20px;
+    text-align: center;
+}
+canvas {
+    border:1px solid black;
+}
+#apply_fliter_btn{
+    margin-left: 750px;
+}
+#camera_btn{
+    margin-left: 750px;
+}
